@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MagicEight/static/css/main.c64217e1.chunk.css",
+    "main.js": "/MagicEight/static/js/main.5f38b047.chunk.js",
+    "main.js.map": "/MagicEight/static/js/main.5f38b047.chunk.js.map",
+    "runtime-main.js": "/MagicEight/static/js/runtime-main.cff33dcd.js",
+    "runtime-main.js.map": "/MagicEight/static/js/runtime-main.cff33dcd.js.map",
+    "static/js/2.a278696c.chunk.js": "/MagicEight/static/js/2.a278696c.chunk.js",
+    "static/js/2.a278696c.chunk.js.map": "/MagicEight/static/js/2.a278696c.chunk.js.map",
+    "static/js/3.681b26e4.chunk.js": "/MagicEight/static/js/3.681b26e4.chunk.js",
+    "static/js/3.681b26e4.chunk.js.map": "/MagicEight/static/js/3.681b26e4.chunk.js.map",
+    "index.html": "/MagicEight/index.html",
+    "static/css/main.c64217e1.chunk.css.map": "/MagicEight/static/css/main.c64217e1.chunk.css.map",
+    "static/js/2.a278696c.chunk.js.LICENSE.txt": "/MagicEight/static/js/2.a278696c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cff33dcd.js",
+    "static/js/2.a278696c.chunk.js",
+    "static/css/main.c64217e1.chunk.css",
+    "static/js/main.5f38b047.chunk.js"
+  ]
+}
