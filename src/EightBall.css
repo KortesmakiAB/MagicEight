@@ -1,0 +1,28 @@
+.EightBall {
+    display: inline-block;
+    text-align: center;
+}
+
+.EightBall-wrapper {
+    /* shadow from solution code */
+    box-shadow: 5px 5px 10px #678;
+    margin: 1.25rem;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.EightBall-button {
+    margin:1.25rem;
+    width: 100px;
+    height: 33px;
+    border-radius: 10px;
+    font-family: 'Recursive', sans-serif;
+    font-size: 1rem;
+    background-color: white;
+    cursor: pointer;
+}
